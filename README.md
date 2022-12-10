@@ -24,3 +24,8 @@ ragu@123
   <li>That's all</li>
 </ul>
 
+## Installation Video
+
+
+https://user-images.githubusercontent.com/88898517/206864945-96375441-f3bd-45ec-8e25-e7e029297652.mp4
+
