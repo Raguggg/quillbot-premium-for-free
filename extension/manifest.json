@@ -1,0 +1,25 @@
+{
+  "name": "QuillBot Premium",
+  "version": "1.0",
+  "description": "It is used to gain free access to all premium features of Quillbot, maintained by Ragu!",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+   "128": "icon128.png"
+ },
+  "content_scripts": [
+    
+    {
+      "matches": [
+        "https://quillbot.com/*"
+      ],
+      "js": [
+        "./content.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+    
+  ]
+}
