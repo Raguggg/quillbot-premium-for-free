@@ -31,3 +31,7 @@ https://user-images.githubusercontent.com/88898517/206864945-96375441-f3bd-45ec-
 
 ## Website
  <a href = "https://raguggg.github.io/" target="_blank">Raguggg</a>
+
+## **Repository Views**
+
+![Views](https://profile-counter.glitch.me/quillbot-premium-for-free/count.svg)
