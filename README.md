@@ -1,11 +1,16 @@
 <h1 align="center">Welcome to quillbot Premium for free 👋</h1>
 
 > Now you can check Plagiarism for free and use all the premium features of Quillbot.
+
 ## 🚀 Install For Chrome
   <a href="https://github.com/Raguggg/quillbot-premium-for-free/archive/refs/heads/main.zip" target="_blank">
     Click Here
   </a>
   
+## Support
+If you find this project helpful, please consider giving it a star ⭐️. Your support is greatly appreciated!
+[![GitHub stars](https://img.shields.io/github/stars/raguggg/quillbot-premium-for-free.svg)](https://github.com/raguggg/quillbot-premium-for-free/stargazers)
+
 ## Token
 ```
 ragu@123
