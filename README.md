@@ -35,7 +35,7 @@
 - 15 Sentences processed at once
 
 ## 🚀 Getting Started
-
+To use this extension  in chrome Please visit https://github.com/Raguggg/quillbot-premium-for-free/tree/firefox
 ### Prerequisites
 
 - Chrome Browser
