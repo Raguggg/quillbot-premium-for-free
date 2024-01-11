@@ -59,7 +59,11 @@ Join the channel to get verification code: [Telegram channel](https://t.me/Quill
 
 ## 🎥 Installation Video
 
-[![Installation Video](https://github.com/Raguggg/quillbot-premium-for-free/assets/88898517/bb1ea18a-c042-4841-aee9-963be1470a87)](https://github.com/Raguggg/quillbot-premium-for-free/assets/88898517/bb1ea18a-c042-4841-aee9-963be1470a87)
+
+
+https://github.com/Raguggg/quillbot-premium-for-free/assets/88898517/1d3c4f48-7523-475c-b903-9656f7917dd4
+
+
 
 ## 🤝 Contributing
 
